@@ -6,7 +6,7 @@ To develop a computer vision system capable of estimating the pH level of water 
 2. Visualization: Provide users with a clear understanding of the pH distribution within the sample, facilitating further analysis.
 3. Accessibility:  Make pH estimation more accessible to a wider range of users. Only with the captured images, users can easily implement and utilize the system for pH analysis.
 
-We utilize computer vision techniques and machine learning algorithms to analyze test strip images and determine pH values. We'll divide our code into three main parts: image preprocessing, color extraction, and pH level classification.
+We utilize computer vision techniques and machine learning algorithms to analyze test strip images and determine pH values.The code has three main parts: image preprocessing, color extraction, and pH level classification.
 
 In the preprocessing stage, we convert the input image to grayscale, apply Gaussian blur, and perform edge detection using the Sobel operator. After binary thresholding to convert the resulting image into black and white, we use morphological opening operations to remove any small dots and detect lines from the image using the Hough transform. We then define the area containing all the lines as our region of interest (ROI) and extract it.
 
