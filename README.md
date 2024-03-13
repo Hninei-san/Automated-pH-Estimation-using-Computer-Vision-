@@ -1,9 +1,9 @@
 # Automated-pH-Estimation-using-Computer-Vision-
 Automated pH Estimation using Computer Vision  for Water Quality Assessment
 Members :
-65011289 Cherry Hlaing Kyaw
-65011303 Hnin Ei San
-65011497 Kyi Khaing Khant Soe
+1. 65011289 Cherry Hlaing Kyaw
+2. 65011303 Hnin Ei San
+3. 65011497 Kyi Khaing Khant Soe
 
 To develop a computer vision system capable of estimating the pH level of water samples by analyzing color changes on test strips
 1. Automation: Traditional pH measurement methods require manual observation and interpretation. By using computer vision, we automate the process, reducing the need for manual intervention.
